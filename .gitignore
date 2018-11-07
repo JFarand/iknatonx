@@ -1,0 +1,24 @@
+# Build Path of Test Fixtures
+.gatsby-context.js
+.DS_Store
+public/
+build/
+.cache/
+.netlify
+.eslintignore
+
+# IDE specific
+.vscode/
+
+# Dependency Directories
+node_modules/
+
+# Runtime data
+package-lock.json
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
